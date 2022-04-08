@@ -1,0 +1,11 @@
+Model Information:
+* title:	pavillion 3 blue
+* source:	https://sketchfab.com/3d-models/pavillion-3-blue-0c763f5f0fa64dc2991d01303447751d
+* author:	zorgrazor (https://sketchfab.com/zorgrazor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pavillion 3 blue" (https://sketchfab.com/3d-models/pavillion-3-blue-0c763f5f0fa64dc2991d01303447751d) by zorgrazor (https://sketchfab.com/zorgrazor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
